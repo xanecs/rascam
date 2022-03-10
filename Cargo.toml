@@ -10,7 +10,6 @@ license = "MIT"
 categories = [ "hardware-support" ]
 keywords = [ "camera", "raspberry", "pi", "rpi" ]
 exclude = [ "ci/*" ]
-build = "build.rs"
 edition = "2018"
 
 [dependencies]
